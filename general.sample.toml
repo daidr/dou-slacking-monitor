@@ -1,0 +1,28 @@
+secret = "TYPE_YOUR_SECRET_HERE"
+entrypoint = "https://dou-slacking.daidr.me/"
+whitelist = [
+    "goland64",
+    "msedge",
+    "mailmaster",
+    "chrome",
+    "firefox",
+    "QQ",
+    "WeChat",
+    "Photoshop",
+    "Photo",
+    "Code",
+    "Designer",
+    "StarRail",
+    "Termius",
+    "idea64",
+    "WindowsTerminal",
+    "WINWORD",
+    "POWERPNT",
+    "EXCEL",
+    "YuanShen",
+    "Genshin Impact Cloud Game",
+    "Apifox",
+    "LockApp",
+    "DingTalk",
+    "devenv"
+]
